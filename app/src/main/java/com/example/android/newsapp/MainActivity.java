@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
                 Uri uri = Uri.parse(clickedNews.getNewsUrl());
 
                 Intent intent = new Intent(Intent.ACTION_VIEW, uri);
-                startActivity(intent);
+                startActivity(Intent.createChooser(intent, "Open with"));
             }
         });
 

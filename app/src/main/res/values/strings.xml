@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">NewsApp2</string>
+    <string name="app_name">News App</string>
     <string name="section_label">Section:</string>
     <string name="date_label">Date:</string>
     <string name="author_label">Authors:</string>
