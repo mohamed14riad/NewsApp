@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">NewsApp2</string>
+    <string name="section_label">Section:</string>
+    <string name="date_label">Date:</string>
+    <string name="author_label">Authors:</string>
+    <string name="no_data">No News Data Found</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="not_provided">Not Provided!</string>
+    <string name="settings_label">Settings</string>
+
+    <string name="section_title">Section</string>
+    <string name="section_key">section_key</string>
+
+    <string name="sport_label">Sport</string>
+    <string name="business_label">Business</string>
+    <string name="world_news_label">World News</string>
+    <string name="politics_label">Politics</string>
+    <string name="football_label">Football</string>
+
+    <string name="sport_value">sport</string>
+    <string name="business_value">business</string>
+    <string name="world_news_value">world</string>
+    <string name="politics_value">politics</string>
+    <string name="football_value">football</string>
+
+    <string-array name="section_labels">
+        <item>Sport</item>
+        <item>Business</item>
+        <item>World News</item>
+        <item>Politics</item>
+        <item>Football</item>
+    </string-array>
+
+    <string-array name="section_values">
+        <item>sport</item>
+        <item>business</item>
+        <item>world</item>
+        <item>politics</item>
+        <item>football</item>
+    </string-array>
+</resources>

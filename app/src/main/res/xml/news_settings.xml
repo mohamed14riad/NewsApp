@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/settings_label">
+
+    <ListPreference
+        android:defaultValue="@string/sport_value"
+        android:entries="@array/section_labels"
+        android:entryValues="@array/section_values"
+        android:key="@string/section_key"
+        android:title="@string/section_title" />
+
+</PreferenceScreen>
